@@ -1,16 +1,18 @@
-def division(num1, num2)
+def division(42, 7)
  
 end
 
-def assign_variable(value)
+def assign_variable("Bob")
+  value = "Bob"
   
 end
 
-def argue
-  
+def argue("phrase")
+  phrase = "I'm right and you are wrong"
 end
 
-def greeting
+def greeting("Hi there")
+  greeting = "Hi there"
 
 end
 
