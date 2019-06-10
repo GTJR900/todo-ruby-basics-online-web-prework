@@ -8,8 +8,8 @@ def argue
  puts "I'm right and you are wrong"
 end
 
-def greeting("Hi there")
-  greeting = "Hi there"
+def greeting
+  puts 
 
 end
 
