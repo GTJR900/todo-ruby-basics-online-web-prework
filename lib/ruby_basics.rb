@@ -8,8 +8,9 @@ def argue
  puts "I'm right and you are wrong!"
 end
 
-def greeting("Greeting" , "Bob" )
-  
+def greeting("greeting" , "name" )
+  greeting = "Hi there"
+  name = "Bobby!"
 
 end
 
