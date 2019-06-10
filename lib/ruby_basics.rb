@@ -24,5 +24,6 @@ puts Expert
 end
 
 def pizza_party
+puts Pepperoni 
 
 end
