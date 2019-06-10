@@ -1,6 +1,4 @@
 def division(42, 7)
-  puts 6
- 
 end
 
 def assign_variable = "Bob" 
