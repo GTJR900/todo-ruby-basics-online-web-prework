@@ -4,8 +4,8 @@ end
 def assign_variable = "Bob" 
 end
 
-def argue("phrase")
-  phrase = "I'm right and you are wrong"
+def argue
+ puts "I'm right and you are wrong"
 end
 
 def greeting("Hi there")
