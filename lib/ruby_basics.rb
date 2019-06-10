@@ -2,8 +2,6 @@ def division(42, 7)
 end
 
 def assign_variable = "Bob" 
-  puts 
-  
 end
 
 def argue("phrase")
