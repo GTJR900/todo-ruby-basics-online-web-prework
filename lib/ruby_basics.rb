@@ -1,14 +1,14 @@
 def division(42, 7)
 end
 
-def assign_variable = "Bob" 
+def assign_variable "Bob" 
 end
 
 def argue
  puts "I'm right and you are wrong!"
 end
 
-def greeting("Greeting" , )
+def greeting("Greeting" , "Bob" )
   
 
 end
